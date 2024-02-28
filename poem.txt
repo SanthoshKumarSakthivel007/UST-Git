@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+"This is a feature-branch"
+"Here we are gonna play with it"
+>>>>>>> feature-branch
 In the depths of night, the stars softly gleam,
 Whispering secrets in a moonlit dream.
 Shadows dance, a mysterious ballet,
